@@ -3,6 +3,8 @@
     margin-right: 120px;
 }
 
+
+
 @media screen and (-ms-view-state: snapped) {
     .about section[role=main] {
         margin-left: 20px;
