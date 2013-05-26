@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|ARM">
+      <Configuration>Debug</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x86">
+      <Configuration>Debug</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|ARM">
+      <Configuration>Release</Configuration>
+      <Platform>ARM</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x86">
+      <Configuration>Release</Configuration>
+      <Platform>x86</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>ea81e94e-9ba4-4c4b-8c9b-680b775d6982</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '11.0'">
+    <VisualStudioVersion>11.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).Default.props" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).props" />
+  <PropertyGroup>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetPlatformVersion>8.0</TargetPlatformVersion>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <PackageCertificateKeyFile>Beers_TemporaryKey.pfx</PackageCertificateKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppxManifest Include="package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+    <Content Include="css\default.css" />
+    <Content Include="Data\beers.txt" />
+    <Content Include="Data\beers2.txt" />
+    <Content Include="images\alemana\Aktien_Hell2.png" />
+    <Content Include="images\alemana\alemania_group_detail.png" />
+    <Content Include="images\alemana\hefeweizen_anno.png" />
+    <Content Include="images\alemana\hefeweizen_anno2.png" />
+    <Content Include="images\alemana\Iso Weizen.png" />
+    <Content Include="images\alemana\Schlenkerla Druckvorlagen2.png" />
+    <Content Include="images\americana\anchor-liberty.png" />
+    <Content Include="images\americana\eeuu_group_detail.png" />
+    <Content Include="images\americana\left-hand-haystack-wheat.png" />
+    <Content Include="images\americana\rogue-brutal.png" />
+    <Content Include="images\americana\samuel-adams-boston-lager.png" />
+    <Content Include="images\americana\surly-darkness.png" />
+    <Content Include="images\americana\torpedo.png" />
+    <Content Include="images\belga\belgica_group_detail.png" />
+    <Content Include="images\belga\chimay-bleue.png" />
+    <Content Include="images\belga\keizer-blauw.png" />
+    <Content Include="images\belga\zinnebir.png" />
+    <Content Include="images\catalana\art-fosca.png" />
+    <Content Include="images\catalana\catalan_group_detail.png" />
+    <Content Include="images\catalana\glops-blanca.png" />
+    <Content Include="images\catalana\guineu-riner.png" />
+    <Content Include="images\catalana\les-clandestines-4-malta.png" />
+    <Content Include="images\catalana\popaire-tramuntana.png" />
+    <Content Include="images\catalana\pura_pale.png" />
+    <Content Include="images\dev-center_branding.png" />
+    <Content Include="images\escocesa\belhaven-scottish.png" />
+    <Content Include="images\escocesa\escocia_group_detail.png" />
+    <Content Include="images\escocesa\nuclear-penguin.png" />
+    <Content Include="images\escocesa\punkipa.png" />
+    <Content Include="images\escocesa\traquair-jacobite.png" />
+    <Content Include="images\inglesa\bombardier-english.png" />
+    <Content Include="images\inglesa\hobgoblin.png" />
+    <Content Include="images\inglesa\inglesa_group_detail.png" />
+    <Content Include="images\inglesa\peter-ruby-red.png" />
+    <Content Include="images\inglesa\porter.png" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\smalllogo.png" />
+    <Content Include="images\splashscreen.png" />
+    <Content Include="images\storelogo.png" />
+    <Content Include="js\data.js" />
+    <Content Include="js\default.js" />
+    <Content Include="js\navigator.js" />
+    <Content Include="pages\itemDetail\itemDetail.css" />
+    <Content Include="pages\itemDetail\itemDetail.html" />
+    <Content Include="pages\itemDetail\itemDetail.js" />
+    <Content Include="pages\groupDetail\groupDetail.css" />
+    <Content Include="pages\groupDetail\groupDetail.html" />
+    <Content Include="pages\groupDetail\groupDetail.js" />
+    <Content Include="pages\groupedItems\groupedItems.css" />
+    <Content Include="pages\groupedItems\groupedItems.html" />
+    <Content Include="pages\groupedItems\groupedItems.js" />
+    <Content Include="default.html" />
+    <Content Include="pages\searchContract\searchResults.css" />
+    <Content Include="pages\searchContract\searchResults.html" />
+    <Content Include="pages\searchContract\searchResults.js" />
+    <Content Include="pages\settingsContract\about.css" />
+    <Content Include="pages\settingsContract\about.html" />
+    <Content Include="pages\settingsContract\about.js" />
+    <Content Include="pages\settingsContract\preferences.css" />
+    <Content Include="pages\settingsContract\preferences.html" />
+    <Content Include="pages\settingsContract\preferences.js" />
+    <None Include="Beers_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <SDKReference Include="Microsoft.WinJS.1.0, Version=1.0" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
+  <!-- To modify your build process, add your task inside one of the targets below then uncomment
+       that target and the DisableFastUpToDateCheck PropertyGroup. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  <PropertyGroup>
+    <DisableFastUpToDateCheck>true</DisableFastUpToDateCheck>
+  </PropertyGroup>
+  -->
+</Project>

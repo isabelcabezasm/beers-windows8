@@ -1,0 +1,121 @@
+﻿[
+
+{"group":1,
+"key":1000,
+"title":"Guineu Riner",
+"subtitle":"Bitter estilo amerinano",
+"shortTitle" : "Guineu Riner", 
+"ABV":2.5,
+"description":"Guineu Riner ha sido considerada la mejor cerveza del mundo de bajo alcohol según el RateBeer. Una de las Guineu más reputadas, junto con la exquisita Montserrat, es Riner, una Pale Ale de estilo americano con una graduación alcohólica sorprendentemente baja, inferior al 3%. Es de color amarillo pajizo, turbia, con una espuma nacarada cuyo volumen no cesa de crecer por el imparable flujo de burbujas que la alimentan, consiguiendo escapar por el cuello de la botella repetidas veces. Es tremendamente aromática, y mediante el olfato queda clara su inspiración estadounidense al presentarse como una compacta combinación de limón y pomelo con hierba y pino, algo resinosa y con un toque de especia, sobre una base que recuerda a uva blanca y manzana, sugiriendo así una importante carga de Cascade y/o Centennial. En boca resulta tan refrescante como se pueda imaginar e incluso un poco más, y sin embargo, pese a su mínimo contenido alcohólico, tampoco se puede decir que le falte consistencia ni sabor. Comienza con un breve dulzor, donde se distinguen uva blanca y manzana, que en seguida abre paso a la acidez cítrica y el amargor herbal resinoso del lúpulo. Al principio es más extrema, siendo los cítricos muy prominentes, pero en cuanto reposa se modera un poco y ofrece una mayor complejidad,  ambas son muy interesantes. Cómo no, el final es muy lupulado, con intensas notas de pomelo y limón, trazas de manzana verde y una fuerte presencia de especias picantes, que a su paso convierten la boca en un erial, ansiosa por otro trago que la atrapa en un círculo vicioso de cerveza y sequedad. Una cerveza realmente buena como resultado de una propuesta original y algo arriesgada.",
+"backgroundImage":"images/catalana/guineu-riner.png",
+"features":["Marca: Guineu","Modelo: Guineu Riner","Estilo: American Pale Ale","Origen: Cataluña, España","Tipo de fermentación: Ale"]},
+
+{"group":1,
+"key":1001,
+"title":"Glops Blanca",
+"subtitle":"Bitter estilo amerinano",
+"shortTitle" : "Glops Blanca", 
+"ABV":4.4,
+"description":"La Glops Blanca es una cerveza de alta fermentación, estilo White Beer, elaborada con maltas de cebada y trigo, trigo sin maltear y cilantro, lúpulos y levaduras. Cerveza turbia, color ambarino, seca, refrescante, cuerpo ligero con aromas cítricos y especiados. Cerveza natural elaborada de forma artesanal, sin ningún aditivo. Cerveza de alta fermentación, Ale, estilo White beer, elaborada con maltas de cebada y trigo, trigo sin maltear y cilantro, y lúpulos  Saaz. Cerveza turbia, color  ambarino, seca, refrescante, cuerpo ligero con aromas y gustos cítricos y especiados.",
+"backgroundImage":"images/catalana/glops-blanca.png",
+"features":["Marca: Glops","Modelo: Glops Blanca","Estilo: White Beer (4'4% ABV)","Origen: Cataluña, España","Tipo de fermentación: Ale"]},
+
+{"group":1,
+"key":1002,
+"title":"Agullons Pura Pale",
+"subtitle":"Pale Ale",
+"shortTitle" : "Agullons Pura Pale", 
+"ABV":4.4,
+"description":"Dorado perfecto, la malta Pale se deja ver. Giste blanquísimo y brillante, de apariencia espumosa, burbuja amplia y efímera pero con buena retención. En nariz es principalmente maltosa, fresca y con un final afrutado que le da la levadura. Buen cuerpo, gasificación media muy constante. En boca es plena, la entrada es a cereal y mantiene el tono afrutado que nos decía la nariz, pero con un perfil algo más cítrico, enseguida se dejan ver los lúpulos, llegando a un final seco, pero muy largo. Una cerveza que presenta todo un completo repertorio de sensaciones, no se puede pedir más. ",
+"backgroundImage":"images/catalana/pura_pale.png",
+"features":["Marca: Ales Agullons","Modelo: Ales Agullons Pura Pale","Estilo: Pale Ale","Origen: Cataluña, España","Tipo de fermentación: Ale"]},
+
+
+{"group":2,
+"key":2000,
+"title":"Brewdog Punk IPA",
+"subtitle":"Indian Pale Ale",
+"shortTitle" : "Brewdog Punk IPA",
+"ABV":6,
+"description":"Cerveza IPA al estilo americano a pesar de su origen escoces.Color dorado con frutas tropicales y caramelo en nariz. En boca,se equilibra el lupulo de Nueva Zelanda con la galleta de malta.Final agresivo y seco con el lupulo emergiendo a traves del calido alcohol.Brew dog es una cervecera escocesa con unos productos muy especiales por su sabores extremados y no pensados para un público generalista. En sus etiquetas ya advierten a los que compran la cerveza de que seguramente no les va a gustar y que vuelvan a su típica Lager industrial con mucho descaro.",
+"backgroundImage":"images/escocesa/punkipa.png",
+"features":["Marca: Brewdog","Modelo: Brewdog Punk Ipa","Estilo:IPA","Origen: Escocia, UK","Tipo de fermentación: Ale"]},
+
+
+
+{"group":3,
+"key":3000,
+"title":"Sierra Nevada Torpedo",
+"subtitle":"Pale Ale",
+"shortTitle":"Sierra Nevada Torpedo",
+"ABV":7.2,
+"description":"Sierra Nevada Torpedo es un gran IPA estadounidense ; audaz, firme y lleno de sabor destaca la compleja cítricos, pinos, y el carácter de hierbas de todo el cono de lúpulo americano. Por aquí, nos tomamos muy en serio el lúpulo, que es por eso que no estaban satisfechos con el método estándar de seca de salto para nuestro primer año del IPA. Pasamos retoques años, el gusto y maneras de pellizcar para obtener los sabores de lúpulo más grandes y mejores y aromas en nuestra cerveza. Nuestro empeño ha dado sus frutos. Nuestra obsesión con sabor a lúpulo aprovechamiento de gran llevado al desarrollo de lo que llamamos el torpedo hop, un método revolucionario de la seca de salto diseñados, construidos, y debutó aquí en la fábrica de cerveza. Nuestros torpedo es un elegante, de acero inoxidable pieza de hardware que ofrece un aroma a lúpulo más pura que cualquier método de secado de salto que hemos visto nunca. Al igual que todas nuestras cervezas, IPA Torpedo extra utiliza sólo los mejores de todo el cono de lúpulo es posible hacer esta deliciosa cerveza de la pena la espera.",
+"backgroundImage":"images/americana/torpedo.png",
+"features":["Marca: Sierra Nevada","Modelo: Sierra Nevada Torpedo","Estilo:Pale Ale","Origen: California, EEUU","Tipo de fermentación: Ale"]},
+
+
+{"group":4,
+"key":4000,
+"title":"Brasserie de la Senne Zinnebir ",
+"subtitle":"Summer Ale Estilo Belga",
+"shortTitle":"Brasserie de la Senne Zinnebir ",
+"ABV":6,
+"description":"Rubio dorado, Malta, la amargura y delgado, con un final largo. Su nariz, complejo, desarrolla un sabor a fruta de lúpulo de aroma intenso.",
+"backgroundImage":"images/belga/zinnebir.png",
+"features":["Marca: Brasserie de la Senne", "Modelo: Brasserie de la Senne Zinnebir","Estilo: Summer Ale Estilo Belga", "Origen: Bélgica", "Tipo de fermentación: Ale" ]},
+
+{"group":5,
+"key":5000,
+"title":"Fuller’S London Porter",
+"subtitle":"Porter",
+"shortTitle":"Fuller’S London Porter",
+"ABV":10,
+"description":"La Porter es un tipo de cervezas Ale fuerte, tiene el aroma del malteado y la amargura del lúpulo . Esta elaborada con aguas selectas y malta de chocolate, lo que da como resultado el balance tradicional y perfecto de una Porter. London Porter captura varios sabores perfectamente, gracias a su toque suave y rico a pesar de ser una cerveza fuerte ya que contiene 5.4% de alcohol.",
+"backgroundImage":"images/inglesa/porter.png",
+"features":["Marca: Fuller's","Modelo: London Porter","Estilo: Porter","Origen: London, UK","Tipo de fermentación: Ale"]},
+
+
+
+{"group":6,
+"key":6000,
+"title":"Aktien Hell",
+"subtitle":"Rubia",
+"shortTitle":"Aktien Hell",
+"ABV":5,
+"description":"Equilibrada de lúpulo-malta, cerveza de baja fermentación cerveza. Es mejor a una temperatura de 7 grados Celsius para disfrutar.Para empezar, que encaja perfectamente con platos fríos y canapés, con platos de carnes asadas y guisos, hasta pastel de nuez para el postre. Como un plato de queso son los mejores quesos de pasta blanda ligeramente picantes, queso Muenster y semi-sólidos.",
+"backgroundImage":"images/alemana/Aktien_Hell2.png",
+"features":["Marca: Brasserie de la Senne", "Modelo: Brasserie de la Senne Zinnebir","Estilo: Summer Ale Estilo Belga", "Origen: Bélgica", "Tipo de fermentación: Ale" ]},
+
+{"group":6,
+"key":6001,
+"title":"Hefeweizen Anno",
+"subtitle":"Rubia Turbia de Trigo",
+"shortTitle":"Hefeweizen Anno",
+"ABV":10,
+"description":"Breve descripción de la cerveza",
+"backgroundImage":"images/alemana/hefeweizen_anno2.png",
+"features":["Marca: Brasserie de la Senne", "Modelo: Brasserie de la Senne Zinnebir","Estilo: Summer Ale Estilo Belga", "Origen: Bélgica", "Tipo de fermentación: Ale" ]},
+
+{"group":6,
+"key":6002,
+"title":"Iso Weizen",
+"subtitle":"Trigo sin alcohol",
+"shortTitle":"Iso Weizen",
+"ABV":10,
+"description":"Breve descripción de la cerveza",
+"backgroundImage":"images/alemana/Iso Weizen.png",
+"features":["Marca: Brasserie de la Senne", "Modelo: Brasserie de la Senne Zinnebir","Estilo: Summer Ale Estilo Belga", "Origen: Bélgica", "Tipo de fermentación: Ale" ]},
+
+
+{"group":6,
+"key":6003,
+"title":"Schlenkerla Rauchbier",
+"subtitle":"Marzen-Ahumada",
+"shortTitle":"Schlenkerla Rauchbier",
+"ABV":40,
+"description":"",
+"backgroundImage":"images/alemana/Schlenkerla Druckvorlagen2.png",
+"features":["Marca: Brasserie de la Senne", "Modelo: Brasserie de la Senne Zinnebir","Estilo: Summer Ale Estilo Belga", "Origen: Bélgica", "Tipo de fermentación: Ale" ]}
+
+
+]
